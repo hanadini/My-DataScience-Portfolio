@@ -16,13 +16,17 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib 
 
-- ### Natural Language Processing
+- ### Deep Learning Projects: (https://github.com/hanadini/My-DataScience-Portfolio/tree/master/DL(Rnn%2CCnn%2CMlp%2CTF))
 
-	- [3-way Sentiment Analysis for Tweets](https://github.com/hanadini/MyPortfolio/.ipynb): 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine.
+	- [Computer Vision]: Evaluate Pixel Scaling Methods for Image Classification With CNNs,with MNIST Handwritten Image Classification Dataset. Using Convolutional Neural Networks for image classification,training the model and image augmentation via the ImageDataGenerator class.
+	
+	- [Natural Languagee processing]:Movie Review Sentiment Analysis Project.
 
-	- [Cross language Information Retrieval](https://github.com/hanadini/MyPortfolio/.ipynb): Cross language information retrieval system (CLIR) which, given a query in German, searches text documents written in English.
+	- [TensorFlow(tf.keras)] Develope MLP, CNN,RNN models with tensorflow.Visualize, plot, save and load models and getting better performance from the model in tf.
 
-	_Tools: NLTK, scikit_
+	- [LSTM RNN:Long Short-Term Memory Recurrent Neural Network]: Text generation to learn the dependencies between characters and the conditional probabilities of characters in sequences so that we can in turn generate wholly new and original sequences of characters of a favorite book from childhood as the dataset.
+	
+	- [LSTM RNN]: to predict the number of international airline passengers in units of 1,000.  
 
 - ### Data Analysis and Visualisation
 	- __Python__
