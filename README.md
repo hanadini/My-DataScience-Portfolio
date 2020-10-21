@@ -7,9 +7,9 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Contents
 
-- ### Machine Learning in Python
+- ### Machine Learning in Python (https://github.com/hanadini/My-DataScience-Portfolio/tree/master/ML%20in%20Python)
 
-	- [CLV(Customer Lifetime Value) & Churn prediction](https://github.com/hanadini/My-DataScience-Portfolio/tree/master/ML%20in%20PythonCLV(Customer Lifetime Value) & Churn prediction): In this project it was working For an online retail, can select North Star Metric as Monthly Revenue.
+	- [CLV(Customer Lifetime Value) & Churn prediction](https://github.com/hanadini/My-DataScience-Portfolio/tree/master/ML%20in%20Python/CLV(Customer Lifetime Value) & Churn prediction): In this project it was working For an online retail, can select North Star Metric as Monthly Revenue.
 	- [Detect Credit Card Fraud](https://github.com/hanadini/My-DataScience-Portfolio/tree/master/ML%20in%20Python/Detect Credit Card Fraud in Python.ipynb): For carrying out the credit card fraud detection, It was made use of the Card Transactions dataset that contains a mix of fraud as well as non-fraudulent transactions.
 	- [Time Series Forecast with Python: Monthly Sales of French Champagne](https://github.com/hanadini/My-DataScience-Portfolio/tree/master/ML%20in%20Python/Monthly Sales of French Champagne(Time series forcast analysis and predict).ipynb): predict the number of monthly sales of champagne for a region in France.The dataset provides the number of monthly sales of champagne just under 10 years of data.
 	- [Lego Project](https://github.com/hanadini/My-DataScience-Portfolio/tree/master/ML%20in%20Python/lego_project.ipynb): analyze a fascinating dataset on every single lego block that has ever been built.
