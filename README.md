@@ -8,7 +8,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 ## Contents
 
 - ### Machine Learning in Python 
-		(https://github.com/hanadini/My-DataScience-Portfolio/tree/master/ML%20in%20Python)
+	(https://github.com/hanadini/My-DataScience-Portfolio/tree/master/ML%20in%20Python)
 
 	- [CLV(Customer Lifetime Value) & Churn prediction]: In this project it was working For an online retail, can select North Star Metric as Monthly Revenue.
 	- [Detect Credit Card Fraud]: For carrying out the credit card fraud detection, It was made use of the Card Transactions dataset that contains a mix of fraud as well as non-fraudulent transactions.
@@ -17,7 +17,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib 
 
 - ### Deep Learning Projects: 
-		(https://github.com/hanadini/My-DataScience-Portfolio/tree/master/DL(Rnn%2CCnn%2CMlp%2CTF))
+	(https://github.com/hanadini/My-DataScience-Portfolio/tree/master/DL(Rnn%2CCnn%2CMlp%2CTF))
 
 	- [Computer Vision]: Evaluate Pixel Scaling Methods for Image Classification With CNNs,with MNIST Handwritten Image Classification Dataset. Using Convolutional Neural Networks for image classification,training the model and image augmentation via the ImageDataGenerator class.
 	
