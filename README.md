@@ -18,6 +18,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Deep Learning Projects: 
 	(https://github.com/hanadini/My-DataScience-Portfolio/tree/master/DL(Rnn%2CCnn%2CMlp%2CTF))
+	- [Recommendation System]: I used datasets hosted by Kaggle and considering the content-based approach, for building job recommendation systems.
 
 	- [Computer Vision]: Evaluate Pixel Scaling Methods for Image Classification With CNNs,with MNIST Handwritten Image Classification Dataset. Using Convolutional Neural Networks for image classification,training the model and image augmentation via the ImageDataGenerator class.
 	
