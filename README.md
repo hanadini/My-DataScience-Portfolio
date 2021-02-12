@@ -23,6 +23,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	- [Computer Vision]: Evaluate Pixel Scaling Methods for Image Classification With CNNs,with MNIST Handwritten Image Classification Dataset. Using Convolutional Neural Networks for image classification,training the model and image augmentation via the ImageDataGenerator class.
 	
 	- [Natural Languagee processing]:Movie Review Sentiment Analysis Project.
+	- [BERT for classification]: the dataset from Kaggle is text from consumer finance complaint narrative, the model attempts to predict which product the complaint is about. So is a multi-class classification problem.
 
 	- [TensorFlow(tf.keras)] Develope MLP, CNN,RNN models with tensorflow.Visualize, plot, save and load models and getting better performance from the model in tf.
 
