@@ -24,8 +24,6 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	- [BERT for classification]: the dataset from Kaggle is text from consumer finance complaint narrative, the model attempts to predict which product the complaint is about. So is a multi-class classification problem.
 
 	- [TensorFlow(tf.keras)] Develope MLP, CNN,RNN models with tensorflow.Visualize, plot, save and load models and getting better performance from the model in tf.
-
-	- [LSTM RNN:Long Short-Term Memory Recurrent Neural Network]: Text generation to learn the dependencies between characters and the conditional probabilities of characters in sequences so that we can in turn generate wholly new and original sequences of characters of a favorite book from childhood as the dataset.
 	 
 	
 - ### Micro Projects: 
