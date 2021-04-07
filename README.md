@@ -8,9 +8,9 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 ## Contents
 - ### Exploratory data analysis (EDA):data cleaning and visualisation in Python
 
-        - Clickthrough rate (CTR): We analyze the ratio of the number of users exposed to a link on a website
+	- [Clickthrough rate (CTR)]: We analyze the ratio of the number of users exposed to a link on a website
         
-        - Lego: In this project, we will analyze a fascinating dataset on every single lego block that has ever been built!
+	- [Lego]: In this project, we will analyze a fascinating dataset on every single lego block that has ever been built!
 
 - ### Machine Learning in Python 
 	(https://github.com/hanadini/My-DataScience-Portfolio/tree/master/ML%20in%20Python)
