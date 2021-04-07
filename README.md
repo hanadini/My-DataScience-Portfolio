@@ -6,7 +6,7 @@ This repository includes portfolio of data science projects completed by me for 
 _Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
 
 ## Contents
-- ### EDA (data cleaning and visualisation in Python)
+- ### Exploratory data analysis (EDA):data cleaning and visualisation in Python
 
 - ### Machine Learning in Python 
 	(https://github.com/hanadini/My-DataScience-Portfolio/tree/master/ML%20in%20Python)
