@@ -11,7 +11,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	- [Clickthrough rate (CTR)]: I analyze the ratio of the number of users exposed to a link on a website
         
 	- [Lego]: In this project, I will analyze a fascinating dataset on every single lego block that has ever been built!
-	- 
+	
 	- [House price]: I did my best to follow a comprehensive, but not exhaustive, analysis of the data.
 
 - ### Machine Learning in Python 
