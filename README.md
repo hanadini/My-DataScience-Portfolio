@@ -8,9 +8,11 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 ## Contents
 - ### Exploratory data analysis (EDA):data cleaning and visualisation in Python
 
-	- [Clickthrough rate (CTR)]: We analyze the ratio of the number of users exposed to a link on a website
+	- [Clickthrough rate (CTR)]: I analyze the ratio of the number of users exposed to a link on a website
         
-	- [Lego]: In this project, we will analyze a fascinating dataset on every single lego block that has ever been built!
+	- [Lego]: In this project, I will analyze a fascinating dataset on every single lego block that has ever been built!
+	- 
+	- [House price]: I did my best to follow a comprehensive, but not exhaustive, analysis of the data.
 
 - ### Machine Learning in Python 
 	(https://github.com/hanadini/My-DataScience-Portfolio/tree/master/ML%20in%20Python)
@@ -25,7 +27,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 	- [Computer Vision]: Evaluate Pixel Scaling Methods for Image Classification With CNNs,with MNIST Handwritten Image Classification Dataset. Using Convolutional Neural Networks for image classification,training the model and image augmentation via the ImageDataGenerator class.
 	
-	- [Natural Languagee processing]:Movie Review Sentiment Analysis Project.
+	- [Natural Languagee processing]:NLP (Simple-RNN, LSTM, BD-LSTM,GRU)and Movie Review Sentiment Analysis Project.
+	
 	- [BERT for classification]: the dataset from Kaggle is text from consumer finance complaint narrative, the model attempts to predict which product the complaint is about. So is a multi-class classification problem.
 
 	- [TensorFlow(tf.keras)] Develope MLP, CNN,RNN models with tensorflow.Visualize, plot, save and load models and getting better performance from the model in tf.
