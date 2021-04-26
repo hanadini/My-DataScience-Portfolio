@@ -7,8 +7,9 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Contents
 - ### Exploratory data analysis (EDA):data cleaning and visualisation in Python
+        - [NLP-EDA(cleaning]: I did data analysis, feature engineering for NLP, cleaning and text processing.
 
-	- [Clickthrough rate (CTR)]: I analyze the ratio of the number of users exposed to a link on a website
+	- [Clickthrough rate (CTR)]: I analyze the ratio of the number of users exposed to a link on a website.
         
 	- [Lego]: In this project, I will analyze a fascinating dataset on every single lego block that has ever been built!
 	
