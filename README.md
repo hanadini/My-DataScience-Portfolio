@@ -41,8 +41,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	
 	- [Speech_To_Text] A speech recognition system is built that understands simple spoken commands. Tensorflow dataset includes 65000 one-sec of 30 short words uttered by thousands of diffrent people.
 	
-- ### Micro Projects: 
-	- __R__ 
+- ### Micro Projects:  __R__ 
 (https://github.com/hanadini/My-DataScience-Portfolio)
 
 	- [Movie Recommendations using Recommender Systems]: A micro project to build a recommendation system that makes movie recommendations based on user review similarities.
