@@ -34,7 +34,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	- [BERT for classification]: the dataset from Kaggle is text from consumer finance complaint narrative, the model attempts to predict which product the complaint is about. So is a multi-class classification problem.
 
 	- [TensorFlow(tf.keras)] Develope MLP, CNN,RNN models with tensorflow.Visualize, plot, save and load models and getting better performance from the model in tf.
-	 
+	
+	- [Speech_To_Text] A speech recognition system is built that understands simple spoken commands. Tensorflow dataset includes 65000 one-sec of 30 short words uttered by thousands of diffrent people.
 	
 - ### Micro Projects: 
 	- __R__ 
