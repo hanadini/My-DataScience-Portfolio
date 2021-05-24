@@ -7,7 +7,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Contents
 - ### Exploratory data analysis (EDA):data cleaning and visualisation in Python
-        (https://github.com/hanadini/My-DataScience-Portfolio/tree/master/EDA)
+(https://github.com/hanadini/My-DataScience-Portfolio/tree/master/EDA)
 
 	- [Clickthrough rate (CTR)]: I analyze the ratio of the number of users exposed to a link on a website.
 	
