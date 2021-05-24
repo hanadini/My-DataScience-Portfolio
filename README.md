@@ -18,14 +18,17 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	- [House price]: I did my best to follow a comprehensive, but not exhaustive, analysis of the data.
 
 - ### Machine Learning in Python 
-	(https://github.com/hanadini/My-DataScience-Portfolio/tree/master/ML%20in%20Python)
+
+(https://github.com/hanadini/My-DataScience-Portfolio/tree/master/ML%20in%20Python)
 
 	- [CLV(Customer Lifetime Value) & Churn prediction]: In this project it was working For an online retail, can select North Star Metric as Monthly Revenue.
 	
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib 
 
 - ### Deep Learning Projects: 
-	(https://github.com/hanadini/My-DataScience-Portfolio/tree/master/DL(Rnn%2CCnn%2CMlp%2CTF))
+
+(https://github.com/hanadini/My-DataScience-Portfolio/tree/master/DL(Rnn%2CCnn%2CMlp%2CTF))
+
 	- [Recommendation System]: I used datasets hosted by Kaggle and considering the content-based approach, for building job recommendation systems.
 
 	- [Computer Vision]: Evaluate Pixel Scaling Methods for Image Classification With CNNs,with MNIST Handwritten Image Classification Dataset. Using Convolutional Neural Networks for image classification,training the model and image augmentation via the ImageDataGenerator class.
@@ -40,9 +43,11 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	
 - ### Micro Projects: 
 	- __R__ 
-		(https://github.com/hanadini/My-DataScience-Portfolio)
-		- [Movie Recommendations using Recommender Systems]: A micro project to build a recommendation system that makes movie recommendations based on user review similarities.
-		- [ML Decision Trees and Random Forests]: Using Decision Trees and Random Forests to predict diabetes.
+(https://github.com/hanadini/My-DataScience-Portfolio)
+
+	- [Movie Recommendations using Recommender Systems]: A micro project to build a recommendation system that makes movie recommendations based on user review similarities.
+		
+	- [ML Decision Trees and Random Forests]: Using Decision Trees and Random Forests to predict diabetes.
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at 
 hanadini1061@gmail.com
