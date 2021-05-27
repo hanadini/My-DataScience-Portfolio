@@ -16,6 +16,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	- [Lego]: In this project, I will analyze a fascinating dataset on every single lego block that has ever been built!
 	
 	- [House price]: I did my best to follow a comprehensive, but not exhaustive, analysis of the data.
+	
+	- [covid-19 cases]: Creating an animated bar chart race(bcr) for the number of countrywise covid-19 cases between the time period of Feb 2020 to April 2021.
 
 - ### Machine Learning in Python 
 
