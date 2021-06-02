@@ -33,7 +33,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 	- [Recommendation System]: I used datasets hosted by Kaggle and considering the content-based approach, for building job recommendation systems.
 	
-	-[]: In this project, I did classify time series data to define and train a 1D convolutional neural network(CNN) on time series data and know how different hyper parameter tuning will increase the accuracy.
+	-[CNN dor Time series Classification]: In this project , I did classify time series data to define and train a 1D convolutional neural network(CNN) on time series data and know how different hyper parameter tuning will increase the accuracy.
+	(This project was implemented based on the Publishing by Margarita Granat·Oct 5, 2019,How to Use Convolutional Neural Networks for Time Series Classification.)
 
 	- [Computer Vision]: Evaluate Pixel Scaling Methods for Image Classification With CNNs,with MNIST Handwritten Image Classification Dataset. Using Convolutional Neural Networks for image classification,training the model and image augmentation via the ImageDataGenerator class.
 	
