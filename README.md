@@ -12,6 +12,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	- [Clickthrough rate (CTR)]: I analyze the ratio of the number of users exposed to a link on a website.
 	
 	- [NLP-EDA]: I did data analysis, feature engineering for NLP, cleaning and text processing.
+	
+	- [NLP-EDA-AmazonProductReviews]: The objective is to use a dataset containing reviews of various products manufactured by Amazon, explore it, and generate insights from it.
         
 	- [Lego]: In this project, I will analyze a fascinating dataset on every single lego block that has ever been built!
 	
