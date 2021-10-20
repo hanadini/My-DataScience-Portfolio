@@ -1,6 +1,6 @@
 # My-DataScience-Portfolio
 DSc. Studies and minor/major Projects 
-This repository includes portfolio of data science projects completed by me for researching, self-taught. Presented in the form of iPython Notebooks, and R markdown files.
+This repository includes portfolio of data science projects completed by me for researching. Presented in the form of iPython Notebooks, and R markdown files.
 
 
 _Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
