@@ -29,7 +29,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib 
 
-- ### Deep Learning Projects: 
+- ### Deep Learning : 
 
 (https://github.com/hanadini/My-DataScience-Portfolio/tree/master/DL(Rnn%2CCnn%2CMlp%2CTF))
 
